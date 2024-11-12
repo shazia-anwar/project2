@@ -1,3 +1,3 @@
 # New Project
 This project was created from local system.
-Created by Shazia Anwar
+Created by Shazia Anwar.
